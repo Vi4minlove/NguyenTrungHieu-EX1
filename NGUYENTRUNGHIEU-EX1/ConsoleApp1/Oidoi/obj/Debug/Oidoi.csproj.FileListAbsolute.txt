@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.exe.config
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.exe
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.pdb
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.exe
+C:\Users\Admin\Desktop\STURDY C\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.pdb
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.exe
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\obj\Debug\Oidoi.pdb
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.exe.config
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.exe
+C:\Users\Admin\Desktop\NGUYENTRUNGHIEU\C#\ConsoleApp1\Oidoi\bin\Debug\Oidoi.pdb
